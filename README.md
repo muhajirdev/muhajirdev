@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ReactJS & Golang
 - 🌱 I’m currently learning Rust, Golang & ML
 - 👯 I’m looking to collaborate on ...
