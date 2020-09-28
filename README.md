@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My Name is Muhammad Muhajir.
+
 - 🔭 I’m currently working on ReactJS, NodeJS, & Golang
 - 🌱 I’m currently learning Rust, ML
 - 👯 I’m looking to collaborate on IoT
@@ -7,5 +9,7 @@
 - 💬 Ask me about ReactJS, NodeJS, Golang, GraphQL
 - 📫 How to reach me: muhammad@muhajir.dev
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+  - I made vscode.xyzz
+  - I am fan of VSCodeVIM
 
